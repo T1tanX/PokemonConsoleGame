@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGame", "ConsoleGame\ConsoleGame.csproj", "{53116272-5515-4EB8-9F49-F94E3B4C3C11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA6D1242-734E-4EFB-8971-C2E899704A50}"
+	ProjectSection(SolutionItems) = preProject
+		ConsoleGame2.cs = ConsoleGame2.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53116272-5515-4EB8-9F49-F94E3B4C3C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53116272-5515-4EB8-9F49-F94E3B4C3C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53116272-5515-4EB8-9F49-F94E3B4C3C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53116272-5515-4EB8-9F49-F94E3B4C3C11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
